@@ -1,21 +1,10 @@
 LCD driver for the Raspberry PI Installation<br>
 ====================================================
-2017-08-16
-Update: <br>
-  v1.6-20170824<br>
-  Update xserver to support Raspbian-2017-08-16<br><br>
-Update: <br>
-  v1.5-20170706<br>
-  Update to support Raspbian-2017-07-05,Raspbian-2017-06-21<br><br>
-Update: <br>
-  v1.3-20170612<br>
-  fixed to support Raspbian-2017-03-02,Raspbian-2017-04-10<br><br>
-Update: <br>
-  v1.2-20170302<br>
-  Add xserver-xorg-input-evdev_1%3a2.10.3-1_armhf.deb to support Raspbian-2017-03-02<br><br>
-Update: <br>
-  v1.1-20160815<br><br>
-  
+   This is Juvtmall, if you have any troble in our product, please contact<br> 
+   our support: support@juvtmall.com<br> 
+   our website is: www.juvtmall.com<br> 
+   Thank you<br> 
+
 1.)Step1, Install Raspbian official mirror <br>
 ====================================================
   a)Download Raspbian official mirror:<br>
